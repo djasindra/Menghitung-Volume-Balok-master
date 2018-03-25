@@ -24,7 +24,7 @@ export default class HitungLuasSegitiga extends Component {
 
         <View style={{backgroundColor:'#2196f3'}}>
            <Text style = {{padding: 10, fontSize: 20, color: 'white', textAlign:'center'}} >
-            Menghitung luas Segitiga
+            Menghitung Volume Balok
           </Text>
          </View>
         
